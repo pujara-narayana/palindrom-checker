@@ -2,7 +2,7 @@
 
 This is a simple web-based application that checks if a given input string is a palindrome. A palindrome is a word, phrase, number, or sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
 
-## Tech Stack
+## Technology
 
 - HTML
 - JavaScript
